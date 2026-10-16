@@ -1,22 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="690" viewBox="0 0 900 690" role="img" aria-labelledby="title desc">
-<title id="title">Babyweste · offen ohne Verschluss</title><desc id="desc">Schematische Vorderansicht einer gestrickten Babyweste mit rundem Halsausschnitt, krausen Blenden und offener Vorderkante.</desc>
-<rect width="900" height="690" fill="#FCFAF5"/>
-<text x="450" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="700" fill="#384650">Babyweste · offen ohne Verschluss</text>
-<text x="450" y="107" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#68757C">Größe EU 62 · Rundhals · Nadelstärke 4,0 mm</text>
-<defs><pattern id="strick" width="17" height="18" patternUnits="userSpaceOnUse"><path d="M2 2 Q8 13 14 2" fill="none" stroke="#D6AF91" stroke-width="2" opacity=".53"/></pattern></defs>
-<g fill="#E7BEA0" stroke="#926950" stroke-width="4" stroke-linejoin="round">
-<path d="M215 162 L331 162 C337 211 370 254 438 265 L438 563 L186 563 L186 315 C221 272 238 226 215 162 Z"/>
-<path d="M569 162 L686 162 C663 226 680 272 715 315 L715 563 L463 563 L463 265 C531 254 563 211 569 162 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="670" viewBox="0 0 900 670" role="img" aria-labelledby="title description">
+<title id="title">Babyweste ohne Verschluss</title><desc id="description">Symmetrische Vorderansicht mit zwei spiegelbildlichen Rundhals-Hälften, geradem Vorderkantenabschluss und offener Vorderleiste.</desc>
+<rect width="900" height="670" fill="#fcfaf5" />
+<text x="450" y="67" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="700" fill="#35454b">Babyweste ohne Verschluss</text>
+<text x="450" y="108" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#6e7478">Rundhals · EU 62 · Nadel 4,0 mm</text>
+<defs><pattern id="fabric" width="16" height="18" patternUnits="userSpaceOnUse"><path d="M2 3 Q8 15 14 3" fill="none" stroke="#ac7958" stroke-width="1.6" opacity=".25"/></pattern></defs>
+<g fill="#e8c6ac" stroke="#956f59" stroke-width="4" stroke-linejoin="round"><path d="M214 201 L350 201 C351 251 389 289 446 291 L446 562 L192 562 L192 331 C233 304 238 260 214 201 Z"/><path d="M686 201 L550 201 C549 251 511 289 454 291 L454 562 L708 562 L708 331 C667 304 662 260 686 201 Z"/></g>
+<g fill="url(#fabric)"><path d="M214 201 L350 201 C351 251 389 289 446 291 L446 562 L192 562 L192 331 C233 304 238 260 214 201 Z"/><path d="M686 201 L550 201 C549 251 511 289 454 291 L454 562 L708 562 L708 331 C667 304 662 260 686 201 Z"/></g>
+<g stroke="#a57c61" stroke-width="2" fill="none" opacity=".85">
+<path d="M194 540 H445 M194 548 H445 M455 540 H706 M455 548 H706"/>
+<path d="M430 301 L430 562 M470 301 L470 562" stroke-dasharray="6 4"/>
+<path d="M350 201 C351 251 389 289 446 291 M550 201 C549 251 511 289 454 291" stroke-width="4"/>
 </g>
-<g fill="url(#strick)"><path d="M215 162 L331 162 C337 211 370 254 438 265 L438 563 L186 563 L186 315 C221 272 238 226 215 162 Z"/><path d="M569 162 L686 162 C663 226 680 272 715 315 L715 563 L463 563 L463 265 C531 254 563 211 569 162 Z"/></g>
-<path d="M408 262 L408 562 M493 262 L493 562" stroke="#A47A5C" stroke-width="3"/>
-<g stroke="#A57C5E" stroke-width="2" opacity=".75"><path d="M188 532 H436 M188 540 H436 M188 548 H436 M464 532 H713 M464 540 H713 M464 548 H713"/><path d="M413 295 H433 M413 303 H433 M413 311 H433 M468 295 H489 M468 303 H489 M468 311 H489"/></g>
-<path d="M440 268 L440 563" stroke="#E6E1D6" stroke-width="17" fill="none"/>
-<g font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#45545B">
-<text x="92" y="376" text-anchor="middle">Armaus-</text><text x="92" y="403" text-anchor="middle">schnitt</text>
-<text x="806" y="376" text-anchor="middle">Armaus-</text><text x="806" y="403" text-anchor="middle">schnitt</text>
-<text x="450" y="626" text-anchor="middle">Blenden ohne Verschluss</text>
+
+<g font-family="DejaVu Sans,Arial,sans-serif" fill="#4b545a" font-size="19">
+<text x="450" y="618" text-anchor="middle">Vorderteile bleiben ohne Verschluss</text>
+<text x="450" y="146" text-anchor="middle" font-weight="700">beidseitig symmetrischer Rundhals</text>
 </g>
-<g stroke="#6E858F" stroke-width="2.1" fill="none"><path d="M305 205 L348 221"/><path d="M552 205 L520 221"/><path d="M450 137 L450 187"/><path d="M443 186 L450 196 L457 186"/></g>
-<text x="450" y="143" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#6E858F">Rundhals</text>
+<g stroke="#65757c" stroke-width="2" fill="none"><path d="M381 153 L376 185 L368 212"/><path d="M519 153 L524 185 L532 212"/></g>
 </svg>
