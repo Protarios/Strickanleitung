@@ -23,7 +23,9 @@
 
 **Maschen- und Rechenkontrolle:** 56 M am Rücken + 2 × 30 M vorn − 5 M Überlappung = 111 M wirksame Weite. Bei 22 M/10 cm sind das ca. 50,5 cm. Ohne Überlappung fällt die Weste etwas weiter offen.
 
-![Schnitt- und Maßskizze](../bilder/babyweste-62-schnitt.svg)
+![Technisches Strickschema](../bilder/babyweste-62-schnitt.svg)
+
+**Maßhaltiger Schnitt (A3, 1:1):** [Rückenteil und Vorderteile mit Druckknopfpositionen als PDF](../schnittmuster/babyweste-62-schnitt-1zu1-mit-druckknoepfen-A3.pdf). [Erläuterungen zur Maßhaltigkeit](../schnittmuster/README.md).
 
 ## 1. Rückenteil
 
@@ -77,6 +79,6 @@ Das zweite Vorderteil **spiegelverkehrt** zum ersten stricken. Die fünf kraus r
 - Für den beschriebenen Sitz ist die **Maschenprobe entscheidend**; 4-mm-Nadeln allein garantieren keine bestimmte Weite.
 - **Höhen in Zentimetern messen** statt starre Reihenzahlen zu verwenden: Die angegebene Reihendichte ist eine Orientierung.
 - Beim Tragen dürfen Hals und Armausschnitte nicht einschnüren. An einer gut passenden Babyweste nachmessen.
-- Maßskizzen sind **schematisch** und nicht maßstabsgetreu.
+- Die neuen technischen A3-Strickschnitte sind **1:1** bei Druck auf tatsächliche Größe; die Modellillustrationen bleiben schematisch.
 
 [← Zur Übersicht](../README.md)
