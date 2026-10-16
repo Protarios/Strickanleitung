@@ -10,6 +10,14 @@ Diese Zeichnungen stellen **maßhaltige Strickteile** dar – keine modischen Pr
 | Vorderteile, mit Druckknöpfen | 1:1 | [Vorderteile](babyweste-62-vorderteile-mit-druckknoepfen-1zu1.svg) | [2 Seiten, A3](babyweste-62-schnitt-1zu1-mit-druckknoepfen-A3.pdf) |
 | Vorderteile, ohne Verschluss | 1:1 | [Vorderteile](babyweste-62-vorderteile-ohne-verschluss-1zu1.svg) | [2 Seiten, A3](babyweste-62-schnitt-1zu1-ohne-verschluss-A3.pdf) |
 
+## PNG-Vorschauen
+
+Die PNGs sind reine **Bildschirmvorschauen**, nicht für maßhaltiges Ausdrucken. Für 1:1 unbedingt die A3-PDFs verwenden:
+
+- [Rückenteil als PNG](babyweste-62-rueckenteil-vorschau.png)
+- [Vorderteile mit Druckknöpfen als PNG](babyweste-62-vorderteile-mit-druckknoepfen-vorschau.png)
+- [Vorderteile ohne Verschluss als PNG](babyweste-62-vorderteile-ohne-verschluss-vorschau.png)
+
 ## Maßhaltigkeit und Strickdaten
 
 - Stricknadel: **4,0 mm**; Maschenprobe **22 M × 30 R = 10 × 10 cm** (gewaschen und liegend getrocknet).
