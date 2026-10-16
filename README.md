@@ -9,7 +9,12 @@ Zwei Varianten derselben Babyweste: **mit drei angenähten Druckknöpfen** oder 
 | Mit Druckknöpfen | [Anleitung](anleitungen/babyweste-62-mit-druckknoepfen.md) | [Druck-PDF](pdf/babyweste-62-mit-druckknoepfen.pdf) | [Ansicht](bilder/babyweste-62-mit-druckknoepfen.svg) |
 | Ohne Druckknöpfe, vorne offen | [Anleitung](anleitungen/babyweste-62-ohne-verschluss.md) | [Druck-PDF](pdf/babyweste-62-ohne-verschluss.pdf) | [Ansicht](bilder/babyweste-62-ohne-verschluss.svg) |
 
-[Maß- und Schnittskizze als SVG](bilder/babyweste-62-schnitt.svg)
+**Neue maßhaltige Strickschnittmuster (statt rein dekorativer Vestengrafiken):** [Maßübersicht](bilder/babyweste-62-schnitt.svg), [Einzelschnittmuster und Hinweise](schnittmuster/README.md).
+
+- **Mit Druckknöpfen:** [A3-PDF mit Rückenteil und spiegelbildlichen Vorderteilen, 1:1](schnittmuster/babyweste-62-schnitt-1zu1-mit-druckknoepfen-A3.pdf)
+- **Ohne Verschluss:** [A3-PDF mit Rückenteil und spiegelbildlichen Vorderteilen, 1:1](schnittmuster/babyweste-62-schnitt-1zu1-ohne-verschluss-A3.pdf)
+
+![Technischer Schnitt](bilder/babyweste-62-schnitt.svg)
 
 ### Vorschau
 
@@ -25,6 +30,6 @@ Zwei Varianten derselben Babyweste: **mit drei angenähten Druckknöpfen** oder 
 - **Material:** ca. 100–120 g weiches Babygarn (120–130 m/50 g).
 - **Konstruktion:** ein Rückenteil, zwei Vorderteile, kraus rechte Blenden, Rundhals.
 
-**Hinweise:** Die Vektorbilder sind schematische Strickillustrationen, keine Fotografien. Die Maschenprobe und die Passform an einem passenden Kleidungsstück prüfen. Druckknöpfe müssen sicher angenäht sein.
+**Hinweise:** Die bisherigen Westenbilder sind Modellillustrationen. Die neuen Strickschnittmuster sind maßhaltige Konturen aus Maschenprobe und Abnahmen (PDF A3 bei Druck 100 %). Die Maschenprobe und die Passform an einem passenden Kleidungsstück prüfen. Druckknöpfe müssen sicher angenäht sein.
 
 Stand: Oktober 2026.

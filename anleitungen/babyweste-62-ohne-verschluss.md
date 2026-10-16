@@ -10,7 +10,7 @@
 
 | Angabe | Wert |
 |---|---|
-| Fertiger Brustumfang | ca. 50 cm (mit 5 Maschen überlappenden Leisten) |
+| Fertiger Brustumfang | keine geschlossene Weite; rechnerisch ca. 52,7 cm bei Kantenkontakt |
 | Gesamtlänge | ca. 26 cm |
 | Armlochtiefe | ca. 11 cm |
 | Garn | ca. 100–120 g weiches, waschbares Babygarn |
@@ -21,9 +21,11 @@
 
 **Grundmuster:** Glatt rechts = Hinreihe rechts, Rückreihe links. Kraus rechts = jede Reihe rechts. Die fünf Maschen jeder vorderen Blende werden stets kraus rechts gestrickt. Randmaschen sind in den genannten Maschenzahlen enthalten.
 
-**Maschen- und Rechenkontrolle:** 56 M am Rücken + 2 × 30 M vorn − 5 M Überlappung = 111 M wirksame Weite. Bei 22 M/10 cm sind das ca. 50,5 cm. Ohne Überlappung fällt die Weste etwas weiter offen.
+**Maschen- und Rechenkontrolle:** 56 M am Rücken + 2 × 30 M vorn = 116 M. Bei 22 M/10 cm entspricht das ca. 52,7 cm Umfang, wenn die Vorderkanten nur aneinanderliegen. Offen getragen ergibt sich kein fest definierter Brustumfang.
 
-![Schnitt- und Maßskizze](../bilder/babyweste-62-schnitt.svg)
+![Technisches Strickschema](../bilder/babyweste-62-schnitt.svg)
+
+**Maßhaltiger Schnitt (A3, 1:1):** [Rückenteil und Vorderteile ohne Verschluss als PDF](../schnittmuster/babyweste-62-schnitt-1zu1-ohne-verschluss-A3.pdf). [Erläuterungen zur Maßhaltigkeit](../schnittmuster/README.md).
 
 ## 1. Rückenteil
 
@@ -74,6 +76,6 @@ Wenn sich die Vorderkanten stark einrollen, die kraus rechten Blenden in der Mas
 - Für den beschriebenen Sitz ist die **Maschenprobe entscheidend**; 4-mm-Nadeln allein garantieren keine bestimmte Weite.
 - **Höhen in Zentimetern messen** statt starre Reihenzahlen zu verwenden: Die angegebene Reihendichte ist eine Orientierung.
 - Beim Tragen dürfen Hals und Armausschnitte nicht einschnüren. An einer gut passenden Babyweste nachmessen.
-- Maßskizzen sind **schematisch** und nicht maßstabsgetreu.
+- Die neuen technischen A3-Strickschnitte sind **1:1** bei Druck auf tatsächliche Größe; die Modellillustrationen bleiben schematisch.
 
 [← Zur Übersicht](../README.md)
