@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-labelledby="title desc">
+<title id="title">Babyweste EU 62: Schnitt- und Maßskizze</title><desc id="desc">Rückenteil und zwei spiegelverkehrte Vorderteile. Maße: Länge 26 cm, Rückenbreite ca. 25,5 cm, zwei Vorderteile je ca. 13,6 cm und Armlochtiefe 11 cm.</desc>
+<rect width="1100" height="650" fill="#FCFAF5"/><text x="550" y="65" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="33" font-weight="bold" fill="#394750">Schnitt- und Maßskizze · EU 62</text>
+<g fill="#E7BEA0" stroke="#926950" stroke-width="3">
+<path d="M125 205 L170 205 Q189 235 225 235 Q261 235 280 205 L325 205 L325 257 Q305 293 320 323 L320 553 L130 553 L130 323 Q145 293 125 257 Z"/>
+<path d="M475 205 L548 205 Q553 265 610 302 L610 553 L460 553 L460 323 Q481 288 475 257 Z"/>
+<path d="M785 205 L858 205 L858 257 Q852 288 873 323 L873 553 L723 553 L723 302 Q780 265 785 205 Z"/>
+</g>
+<g stroke="#A47A5C" stroke-width="2"><path d="M130 526 H320 M460 526 H610 M723 526 H873"/><path d="M590 308 V553 M743 308 V553" stroke-dasharray="5 5"/></g>
+<g fill="#384650" font-family="DejaVu Sans,Arial" font-size="23" text-anchor="middle"><text x="225" y="169">Rückenteil</text><text x="535" y="169">Vorderteil A</text><text x="798" y="169">Vorderteil B</text><text x="225" y="597">56 M ≈ 25,5 cm</text><text x="535" y="597">30 M ≈ 13,6 cm</text><text x="798" y="597">30 M ≈ 13,6 cm</text></g>
+<g stroke="#687984" stroke-width="2" fill="none"><path d="M92 205 H104 M92 205 V553 M92 553 H104"/><path d="M335 205 H346 M335 205 V323 M335 323 H346"/><path d="M125 616 H325"/></g>
+<g fill="#384650" font-family="DejaVu Sans,Arial" font-size="19"><text x="72" y="385" text-anchor="middle" transform="rotate(-90 72 385)">26 cm</text><text x="364" y="267" transform="rotate(90 364 267)" text-anchor="middle">11 cm Armloch</text><text x="550" y="635" text-anchor="middle">Gesamter Brustumfang geschlossen ca. 50,5 cm (5 M Überlappung)</text></g>
+</svg>
