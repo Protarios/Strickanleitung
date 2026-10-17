@@ -33,3 +33,7 @@ Zwei Varianten derselben Babyweste: **mit drei angenähten Druckknöpfen** oder 
 **Hinweise:** Die bisherigen Westenbilder sind Modellillustrationen. Die neuen Strickschnittmuster sind maßhaltige Konturen aus Maschenprobe und Abnahmen (PDF A3 bei Druck 100 %). Die Maschenprobe und die Passform an einem passenden Kleidungsstück prüfen. Druckknöpfe müssen sicher angenäht sein.
 
 Stand: Oktober 2026.
+
+## Reproduzierbare PDF-Erstellung
+
+Die Anleitungs-PDFs entstehen aus den Markdown-Quelldateien mit **Pandoc + XeLaTeX**. Mathematische Formeln werden unverändert als LaTeX-Mathematik gesetzt; kein ASCII-Ersatz und keine eigene PDF-Schriftkodierung. [Generator und Anleitung](scripts/README.md).

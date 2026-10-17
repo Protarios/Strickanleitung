@@ -1,0 +1,39 @@
+name: Build Markdown PDF (math and Unicode)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'anleitungen/**'
+      - 'scripts/build_pdfs.py'
+      - '.github/workflows/build-pdfs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install Pandoc, XeLaTeX, Unicode fonts and SVG renderer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc texlive-xetex texlive-latex-recommended \
+            texlive-fonts-recommended fonts-dejavu-core \
+            librsvg2-bin poppler-utils
+      - name: Build and validate PDF instructions
+        run: python3 scripts/build_pdfs.py
+      - name: Commit updated PDF files to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pdf/babyweste-62-mit-druckknoepfen.pdf pdf/babyweste-62-ohne-verschluss.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m "Regenerate maths-safe PDF instructions"
+            git push origin HEAD:main
+          fi

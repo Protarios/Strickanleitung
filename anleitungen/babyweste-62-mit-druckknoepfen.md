@@ -21,7 +21,13 @@
 
 **Grundmuster:** Glatt rechts = Hinreihe rechts, Rückreihe links. Kraus rechts = jede Reihe rechts. Die fünf Maschen jeder vorderen Blende werden stets kraus rechts gestrickt. Randmaschen sind in den genannten Maschenzahlen enthalten.
 
-**Maschen- und Rechenkontrolle:** 56 M am Rücken + 2 × 30 M vorn − 5 M Überlappung = 111 M wirksame Weite. Bei 22 M/10 cm sind das ca. 50,5 cm. Ohne Überlappung fällt die Weste etwas weiter offen.
+**Maschen- und Rechenkontrolle:** Mit einer Überlappung der Blenden um 5 Maschen ergibt sich
+
+$
+56+2\cdot30-5=111\ \text{Maschen}.
+$
+
+Bei 22 Maschen pro 10 cm entspricht das etwa 50,5 cm Brustumfang.
 
 ![Technisches Strickschema](../bilder/babyweste-62-schnitt.svg)
 
@@ -37,7 +43,12 @@
 6. **Rückwärtiger Rundhals:** Die **mittleren 20 Maschen** abketten. Beide Schultern getrennt stricken. Am inneren Halsausschnittrand jeweils noch **1 × 2 Maschen** abketten.
 7. Es verbleiben **je 12 Schultermaschen**. Bei **26 cm Gesamthöhe** locker abketten.
 
-**Kontrolle Rückenteil:** 56 − 2 × (2 + 1 + 1) = 48 M; nach dem mittleren Abketten 14 M je Schulter; 14 − 2 = **12 M**.
+**Kontrolle Rückenteil:**
+
+$
+56-2(2+1+1)=48,\qquad
+\frac{48-20}{2}-2=12\ \text{Schultermaschen}.
+$
 
 ## 2. Erstes Vorderteil
 
@@ -48,7 +59,13 @@
 5. Bei **19,5 cm Gesamthöhe** an der **vorderen Kante** den Rundhalsausschnitt formen: **1 × 5 M**, danach in jeder zweiten Reihe **1 × 3 M, 1 × 2 M und 4 × 1 M** abketten bzw. abnehmen.
 6. Es verbleiben **12 Schultermaschen**. Gerade weiterarbeiten und bei **26 cm Gesamthöhe** locker abketten.
 
-**Kontrolle Vorderteil:** 30 − 4 (Armausschnitt) − 5 − 3 − 2 − 4 (Hals) = **12 M**.
+**Kontrolle Vorderteil:**
+
+$
+30-\underbrace{(2+1+1)}_{\text{Armausschnitt}}
+-\underbrace{(5+3+2+1+1+1+1)}_{\text{Rundhals}}
+=12\ \text{Schultermaschen}.
+$
 
 ## 3. Zweites Vorderteil
 
