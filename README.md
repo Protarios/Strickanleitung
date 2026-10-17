@@ -1,5 +1,16 @@
 # Baby-Strickanleitungen
 
+## Größe 68 – Rundhals, Nadelstärke 4 mm
+
+| Ausführung | Markdown | PDF | Strickschnitt A3 1:1 |
+|---|---|---|---|
+| Mit Druckknöpfen | [Anleitung](anleitungen/babyweste-68-mit-druckknoepfen.md) | [PDF](pdf/babyweste-68-mit-druckknoepfen.pdf) | [Schnitt-PDF](schnittmuster/babyweste-68-schnitt-1zu1-mit-druckknoepfen-A3.pdf) |
+| Ohne Verschluss | [Anleitung](anleitungen/babyweste-68-ohne-verschluss.md) | [PDF](pdf/babyweste-68-ohne-verschluss.pdf) | [Schnitt-PDF](schnittmuster/babyweste-68-schnitt-1zu1-ohne-verschluss-A3.pdf) |
+
+[Technische Zeichnung Größe 68](bilder/babyweste-68-schnitt.svg) · [Druckhinweise und maßhaltige Einzelschnitte](schnittmuster/README-68.md)
+
+![Technisches Strickschema Größe 68](bilder/babyweste-68-schnitt.svg)
+
 ## Babyweste EU 62 · Rundhalsausschnitt · Nadelstärke 4 mm
 
 Zwei Varianten derselben Babyweste: **mit drei angenähten Druckknöpfen** oder **vorne offen ohne Verschluss**. Alle Teile werden flach gestrickt. Beide Modelle haben einen **Rundhalsausschnitt (keinen V-Ausschnitt)**.

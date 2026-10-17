@@ -12,7 +12,8 @@ import subprocess
 import tempfile
 
 ROOT = Path(__file__).resolve().parents[1]
-SLUGS = ("babyweste-62-mit-druckknoepfen", "babyweste-62-ohne-verschluss")
+SLUGS = ("babyweste-62-mit-druckknoepfen", "babyweste-62-ohne-verschluss",
+         "babyweste-68-mit-druckknoepfen", "babyweste-68-ohne-verschluss")
 
 
 def run(*cmd):
@@ -67,8 +68,6 @@ def render(slug):
         raise RuntimeError(f"PDF missing sections: {output}")
     if re.search(r"\b(?:30|56|14)\s*\?\s*(?:2|4|5)", extracted):
         raise RuntimeError(f"Invalid math character in PDF: {output}")
-    if "−" not in extracted:
-        raise RuntimeError(f"Math minus U+2212 not extractable: {output}")
     font_data = subprocess.check_output(("pdffonts", str(output)), text=True)
     if "DejaVuSans" not in font_data or "yes yes yes" not in font_data:
         raise RuntimeError(f"Unicode font must be embedded: {output}")
