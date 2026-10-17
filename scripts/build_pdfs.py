@@ -56,7 +56,6 @@ def render(slug):
             "--standalone", "--pdf-engine=xelatex",
             "--output", str(output),
             "--metadata=lang:de-DE", "--variable=mainfont:DejaVu Sans",
-            "--variable=mathfont:Latin Modern Math",
             "--variable=fontsize:10pt", "--variable=papersize:a4",
             "--variable=geometry:margin=20mm",
             "--variable=colorlinks:true", "--variable=linkcolor:teal",
