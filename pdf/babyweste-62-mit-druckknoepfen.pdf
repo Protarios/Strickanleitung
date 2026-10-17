@@ -105,7 +105,7 @@ Q
 0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 226.60 Tm (Grundmuster: Glatt rechts = Hinreihe rechts, Rückreihe links. Kraus rechts = jede Reihe rechts. Die fünf) Tj ET
 0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 212.60 Tm (Maschen jeder vorderen Blende werden stets kraus rechts gestrickt. Randmaschen sind in den genannten) Tj ET
 0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 198.60 Tm (Maschenzahlen enthalten.) Tj ET
-0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 177.60 Tm (Maschen- und Rechenkontrolle: 56 M am Rücken + 2 × 30 M vorn ? 5 M Überlappung = 111 M wirksame Weite.) Tj ET
+0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 177.60 Tm (Maschen- und Rechenkontrolle: 56 M am Rücken + 2 × 30 M vorn - 5 M Überlappung = 111 M wirksame Weite.) Tj ET
 0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 163.60 Tm (Bei 22 M/10 cm sind das ca. 50,5 cm. Ohne Überlappung fällt die Weste etwas weiter offen.) Tj ET
 0.20 0.39 0.40 rg BT /F2 14 Tf 1 0 0 1 48.00 125.60 Tm (1. Rückenteil) Tj ET
 0.77 0.82 0.81 RG 0.8 w 48 107.59999999999997 m 547 107.59999999999997 l S
@@ -139,7 +139,7 @@ stream
 0.18 0.24 0.28 rg BT /F1 10 Tf 1 0 0 1 74.00 664.00 Tm (inneren Halsausschnittrand jeweils noch 1 × 2 Maschen abketten.) Tj ET
 0.43 0.34 0.29 rg BT /F2 10.3 Tf 1 0 0 1 54.00 646.00 Tm (7.) Tj ET
 0.18 0.24 0.28 rg BT /F1 10 Tf 1 0 0 1 74.00 646.00 Tm (Es verbleiben je 12 Schultermaschen. Bei 26 cm Gesamthöhe locker abketten.) Tj ET
-0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 625.00 Tm (Kontrolle Rückenteil: 56 ? 2 × \(2 + 1 + 1\) = 48 M; nach dem mittleren Abketten 14 M je Schulter; 14 ? 2 = 12) Tj ET
+0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 625.00 Tm (Kontrolle Rückenteil: 56 - 2 × \(2 + 1 + 1\) = 48 M; nach dem mittleren Abketten 14 M je Schulter; 14 - 2 = 12) Tj ET
 0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 611.00 Tm (M.) Tj ET
 0.20 0.39 0.40 rg BT /F2 14 Tf 1 0 0 1 48.00 576.00 Tm (2. Erstes Vorderteil) Tj ET
 0.77 0.82 0.81 RG 0.8 w 48 558 m 547 558 l S
@@ -158,7 +158,7 @@ stream
 0.18 0.24 0.28 rg BT /F1 10 Tf 1 0 0 1 74.00 429.50 Tm (zweiten Reihe 1 × 3 M, 1 × 2 M und 4 × 1 M abketten bzw. abnehmen.) Tj ET
 0.43 0.34 0.29 rg BT /F2 10.3 Tf 1 0 0 1 54.00 411.50 Tm (6.) Tj ET
 0.18 0.24 0.28 rg BT /F1 10 Tf 1 0 0 1 74.00 411.50 Tm (Es verbleiben 12 Schultermaschen. Gerade weiterarbeiten und bei 26 cm Gesamthöhe locker abketten.) Tj ET
-0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 390.50 Tm (Kontrolle Vorderteil: 30 ? 4 \(Armausschnitt\) ? 5 ? 3 ? 2 ? 4 \(Hals\) = 12 M.) Tj ET
+0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 390.50 Tm (Kontrolle Vorderteil: 30 - 4 \(Armausschnitt\) - 5 - 3 - 2 - 4 \(Hals\) = 12 M.) Tj ET
 0.20 0.39 0.40 rg BT /F2 14 Tf 1 0 0 1 48.00 355.50 Tm (3. Zweites Vorderteil) Tj ET
 0.77 0.82 0.81 RG 0.8 w 48 337.5 m 547 337.5 l S
 0.19 0.25 0.27 rg BT /F1 10 Tf 1 0 0 1 49.00 324.50 Tm (Das zweite Vorderteil spiegelverkehrt zum ersten stricken. Die fünf kraus rechten Blendenmaschen liegen) Tj ET
